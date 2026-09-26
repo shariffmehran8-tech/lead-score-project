@@ -74,8 +74,7 @@ lead"**.
 - **Field names** used in `leadScoring.js`'s prompt (`company`, `industry`,
   `dealSize`, `source`, `notes`) are isolated in `buildPrompt()` so you can
   adapt them to a different lead schema without touching the rest of the app.
-- **Storage** is a flat `data.json` file, no database — fine for a portfolio
-  piece or small dataset, swap for a real DB if you scale this up.
+- **Storage** is a flat `data.json` file, no database.
 
 ## Deploying for a portfolio
 
