@@ -1,0 +1,43 @@
+{
+  "leads": [
+    {
+      "id": "l1",
+      "company": "Harborline Logistics",
+      "industry": "Logistics / Freight",
+      "dealSize": "$18,000/yr",
+      "source": "Inbound demo request",
+      "notes": "Filled out demo form after reading our case study. Ops director replied to first email within 20 minutes asking about implementation timeline and API access. Team of 40, currently using spreadsheets.",
+      "score": null,
+      "tier": null,
+      "reasoning": null,
+      "keyFactors": null,
+      "recommendedAction": null
+    },
+    {
+      "id": "l2",
+      "company": "Nordvale Studio",
+      "industry": "Design agency",
+      "dealSize": "$4,200/yr",
+      "source": "Cold outreach",
+      "notes": "Opened three emails, never replied. Downloaded pricing PDF once in June. No calls booked. Company has 6 employees.",
+      "score": null,
+      "tier": null,
+      "reasoning": null,
+      "keyFactors": null,
+      "recommendedAction": null
+    },
+    {
+      "id": "l3",
+      "company": "Iron & Oat Roastery",
+      "industry": "Food & beverage, D2C",
+      "dealSize": "$9,600/yr",
+      "source": "Referral from existing client",
+      "notes": "Referred by our client Bramblewood Co. Founder booked a call for next Tuesday. Asked pointed questions about invoicing automation and mentioned a Q4 budget already approved for tools like ours.",
+      "score": null,
+      "tier": null,
+      "reasoning": null,
+      "keyFactors": null,
+      "recommendedAction": null
+    }
+  ]
+}

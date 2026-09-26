@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables (contains your ANTHROPIC_API_KEY — never commit this)
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
